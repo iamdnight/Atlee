@@ -7,13 +7,13 @@
     box-sizing: border-box;
 }
 :root{
-    ---color-pink: #38bdf8;       /* Main Sky Blue (was bright pink) */
-    --color-white: #fff;         /* Pure White (kept for contrast) */
-    --color-black: #1e293b;      /* Deep Slate Blue-Black (softer than #333, matches blue theme) */
-    --color-text-pink: #0284c7;  /* Rich Ocean Blue (darker than sky blue so text stays readable) */
-    --color-heart: #7dd3fc;      /* Soft Baby Sky Blue (was coral/heart pink) */
-    --color-bg-letter: #f0f9ff;  /* Crisp Ice Blue background (was #f1fbfd) */
-    --color-border: #0ea5e9;     /* Bright Cerulean/Cyan border (was #4feed9) */
+  --color-pink: #5ec8f2;        /* main background: sky blue */
+  --color-white: #fff;
+  --color-black: #333;
+  --color-text-pink: #2f9fe0;   /* the red/pink of "Birthday", pills, badge */
+  --color-heart: #8fdcff;       /* hearts */
+  --color-bg-letter: #f1fbfd;
+  --color-border: #4feed9;
 }
 html{
     height: 100%;
