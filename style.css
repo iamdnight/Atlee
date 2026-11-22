@@ -7,13 +7,13 @@
     box-sizing: border-box;
 }
 :root{
-  --color-pink: #5ec8f2;        /* main background: sky blue */
-  --color-white: #fff;
-  --color-black: #333;
-  --color-text-pink: #2f9fe0;   /* the red/pink of "Birthday", pills, badge */
-  --color-heart: #8fdcff;       /* hearts */
-  --color-bg-letter: #f1fbfd;
-  --color-border: #4feed9;
+    --color-pink: #5ec8f2;
+    --color-white: #fff;
+    --color-black: #333;
+    --color-text-pink: #2f9fe0;
+    --color-heart: #FF7882;
+    --color-bg-letter: #f1fbfd;
+    --color-border: #4feed9;
 }
 html{
     height: 100%;
